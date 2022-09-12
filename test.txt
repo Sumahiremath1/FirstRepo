@@ -1,1 +1,2 @@
 Hii all, Welcome to Git Tutorial. In next video vl learn more about git.
+changes made to understand .git
